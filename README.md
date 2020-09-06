@@ -51,8 +51,3 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianobragaweb&count_private=true&hide=pascal,css">
   <img align="left" style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianobragaweb&count_private=true&hide=pascal,css" />
 </a>
-
-[website]: https://lucianobragaweb.github.com
-[twitter]: https://twitter.com/lucianobragaweb
-[instagram]: https://instagram.com/lucianobragaweb
-[linkedin]: https://linkedin.com/in/lucianobragaweb
