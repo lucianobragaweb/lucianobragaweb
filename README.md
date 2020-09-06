@@ -11,6 +11,7 @@
 ### Connect with me:
 
 <p align="center">
+<a href="https://lucianobragaweb.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="lucianobragaweb" height="30" width="30" /></a>
 <a href="https://twitter.com/lucianobragaweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lucianobragaweb" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/lucianobragaweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucianobragaweb" height="30" width="30" /></a>
 <a href="https://codesandbox.com/lucianobragaweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="lucianobragaweb" height="30" width="30" /></a>
@@ -19,8 +20,6 @@
 <a href="https://medium.com/@lucianobragaweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@lucianobragaweb" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/ucylqc9vc8cx2vemq_dsva3g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucylqc9vc8cx2vemq_dsva3g" height="30" width="30" /></a>
 </p>
-
-[<img align="left" alt="lucianobragaweb.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br>
 
