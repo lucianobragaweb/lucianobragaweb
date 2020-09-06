@@ -17,6 +17,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Curso HTML para iniciantes - Criar arquivos HTML - #02](https://www.youtube.com/watch?v=AbteInl9Wbo)
+- [Curso HTML para iniciantes - Ambiente de Desenvolvimento - #01](https://www.youtube.com/watch?v=jp4Vr16uieQ)
 <!-- YOUTUBE:END -->
 
 <details>
