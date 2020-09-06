@@ -39,7 +39,9 @@
 
 ---
 
-[![Luciano Braga's github stats](https://github-readme-stats.vercel.app/api?username=lucianobragaweb&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=lucianobragaweb&show_icons=true&include_all_commits=true&count_private=true)
+[![Luciano Braga's github stats](https://github-readme-stats.vercel.app/api?username=lucianobragaweb&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=lucianobragaweb&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianobragaweb&layout=compact&count_private=true)](https://github.com/lucianobragaweb)
 
 [website]: https://lucianobragaweb.github.com
 [twitter]: https://twitter.com/lucianobragaweb
