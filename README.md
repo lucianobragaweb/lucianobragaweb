@@ -21,6 +21,17 @@
 - [Curso HTML para iniciantes - Ambiente de Desenvolvimento - #01](https://www.youtube.com/watch?v=jp4Vr16uieQ)
 <!-- YOUTUBE:END -->
 
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://medium.com/lucianobragaweb)
+
+---
+
 <details>
   <summary>:zap: Github Stats</summary>
 
