@@ -39,10 +39,10 @@
 
 ---
 <a href="https://github-readme-stats.vercel.app/api?username=lucianobragaweb&show_icons=true&count_private=true">
-  <img align="left" style="width: 60%" src="https://github-readme-stats.vercel.app/api?username=lucianobragaweb&show_icons=true&count_private=true&hide=contribs,prs" />
+  <img align="left" style="width: 60%" src="https://github-readme-stats.vercel.app/api?username=lucianobragaweb&show_icons=true&count_private=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianobragaweb&count_private=true&hide=pascal">
-  <img align="left" style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianobragaweb&count_private=true&hide=pascal" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianobragaweb&count_private=true&hide=pascal,css">
+  <img align="left" style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianobragaweb&count_private=true&hide=pascal,css" />
 </a>
 
 [website]: https://lucianobragaweb.github.com
