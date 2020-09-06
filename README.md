@@ -39,12 +39,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Luciano Braga's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucianobragaweb&show_icons=true&hide_border=true" />
-
-</details>
+[![Luciano Braga's github stats](https://github-readme-stats.vercel.app/api?username=lucianobragaweb)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://lucianobragaweb.github.com
 [twitter]: https://twitter.com/lucianobragaweb
