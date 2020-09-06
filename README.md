@@ -39,7 +39,7 @@
 
 ---
 
-[![Luciano Braga's github stats](https://github-readme-stats.vercel.app/api?username=lucianobragaweb)](https://github.com/anuraghazra/github-readme-stats)
+[![Luciano Braga's github stats](https://github-readme-stats.vercel.app/api?username=lucianobragaweb&show_icons=true&include_all_commits=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=lucianobragaweb&show_icons=true&include_all_commits=true&count_private=true)
 
 [website]: https://lucianobragaweb.github.com
 [twitter]: https://twitter.com/lucianobragaweb
