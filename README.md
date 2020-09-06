@@ -14,10 +14,10 @@
 
 ---
 
-### Recent Github Activity
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 <details>
   <summary>:zap: Github Stats</summary>
