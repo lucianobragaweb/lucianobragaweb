@@ -10,10 +10,22 @@
 
 [<img align="left" alt="lucianobragaweb.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
+<br>
+
+---
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Luciano Braga's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucianobragaweb&show_icons=true&hide_border=false" />
+  <img align="left" alt="Luciano Braga's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lucianobragaweb&show_icons=true&hide_border=true" />
 
 </details>
 
