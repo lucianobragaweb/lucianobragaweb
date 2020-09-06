@@ -38,7 +38,7 @@
 ➡️ [more blog posts...](https://medium.com/lucianobragaweb)
 
 ---
-<a href="https://github-readme-stats.vercel.app/api?username=lucianobragaweb&show_icons=true&count_private=true&hide=contribs,prs">
+<a href="https://github-readme-stats.vercel.app/api?username=lucianobragaweb&show_icons=true&count_private=true">
   <img align="left" style="width: 60%" src="https://github-readme-stats.vercel.app/api?username=lucianobragaweb&show_icons=true&count_private=true&hide=contribs,prs" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianobragaweb&count_private=true&hide=pascal">
