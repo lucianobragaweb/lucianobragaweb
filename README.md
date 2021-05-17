@@ -1,7 +1,5 @@
 ### Hi there, I'm Luciano Braga 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/lucianobragaweb?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=lucianobragaweb)
-
 <img src="https://komarev.com/ghpvc/?username=lucianobragaweb" alt="lucianobragaweb" />
 
 ## I'm a Husband, Father, Developer, and Entrepreneur!
