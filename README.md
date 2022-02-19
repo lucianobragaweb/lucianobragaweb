@@ -1,25 +1,14 @@
-### Hi there, I'm Luciano Braga 👋
+## Hi there, I'm Luciano Braga 👋
 
 <img src="https://komarev.com/ghpvc/?username=lucianobragaweb" alt="lucianobragaweb" />
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianobragaweb/)](https://www.linkedin.com/in/lucianobragaweb/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucianobragaweb@gmail.com)](mailto:lucianobragaweb@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/lucianobragaweb/)](https://www.instagram.com/lucianobragaweb/)
 
-## I'm a Husband, Father, Developer, and Entrepreneur!
+### 👋 Welcome to my Github profile
 
 - 🌱 I’m currently learning everything 🤣
 
-### Connect with me:
-
-<p align="center">
-<a href="https://lucianobragaweb.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="lucianobragaweb" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/lucianobragaweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucianobragaweb" height="30" width="30" /></a>
-<a href="https://instagram.com/lucianobragaweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="lucianobragaweb" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/ucylqc9vc8cx2vemq_dsva3g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucylqc9vc8cx2vemq_dsva3g" height="30" width="30" /></a>
-<a href="https://twitter.com/lucianobragaweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lucianobragaweb" height="30" width="30" /></a>
-<a href="https://medium.com/@lucianobragaweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@lucianobragaweb" height="30" width="30" /></a>
-<a href="https://codesandbox.com/lucianobragaweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="lucianobragaweb" height="30" width="30" /></a>
-<a href="https://dribbble.com/lucianobragaweb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="lucianobragaweb" height="30" width="30" /></a>
-</p>
-
-<br>
 
 ### Languages and Tools...
 
