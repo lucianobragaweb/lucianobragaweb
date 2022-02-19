@@ -1,5 +1,4 @@
-## Hi there, I'm Luciano Braga 👋
-
+## Hi there, I'm Luciano Braga 👋 
 <img src="https://komarev.com/ghpvc/?username=lucianobragaweb" alt="lucianobragaweb" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianobragaweb/)](https://www.linkedin.com/in/lucianobragaweb/)
