@@ -23,6 +23,7 @@
 - [Comparar datas em Javascript](https://medium.com/lucianobragaweb/comparar-datas-em-javascript-9b1d1febbe9a?source=rss-f981f6638112------2)
 - [Pedras no caminho de um DEV](https://medium.com/lucianobragaweb/pedras-no-caminho-de-um-dev-85933b2ac172?source=rss-f981f6638112------2)
 - [Pedras no caminho de um DEV](https://medium.com/@lucianobragaweb/pedras-no-caminho-de-um-dev-689fe7b3fbbe?source=rss-f981f6638112------2)
+- [Accessibility— Increase and decrease text with JavaScript](https://medium.com/@lucianobragaweb/accessibility-increase-and-decrease-text-with-javascript-adad1a4f21d6?source=rss-f981f6638112------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/lucianobragaweb)
