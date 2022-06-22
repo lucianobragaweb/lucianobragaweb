@@ -1,5 +1,5 @@
-## Hi there, I'm Luciano Braga 👋 
-<img src="https://komarev.com/ghpvc/?username=lucianobragaweb" alt="lucianobragaweb" />
+## Hi there, I'm Luciano Braga 👋
+Always with great interest in solving everyday problems through technology, especially computer programming, using languages for Web, Mobile or Desktop.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianobragaweb/)](https://www.linkedin.com/in/lucianobragaweb/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucianobragaweb@gmail.com)](mailto:lucianobragaweb@gmail.com)
@@ -27,4 +27,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/lucianobragaweb)
+
+<img src="https://komarev.com/ghpvc/?username=lucianobragaweb" alt="lucianobragaweb" />
 
